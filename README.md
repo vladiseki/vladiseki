@@ -1,4 +1,4 @@
-## About Me :wave:
+### About Me :wave:
 I am a Data Scientist with a passion for sports analytics, and just completed Flatiron's intensive Data Science Bootcamp!
 
 I'm very experienced in contexts that change quickly, maneuvering and managing teams to meet deadlines, and having multiple projects with different parameters.
@@ -15,7 +15,7 @@ Before data science, I was a real estate senior analyst with a knack for being a
 
 I have the professional foundation of being able to deliver and manage a myriad of real estate projects at the same time, interfacing with borrowers and lenders to meet their needs and ours, and managing teams.
 
-## Outside :palm_tree:
+### Outside :palm_tree:
 Besides work, I love learning and experiencing new parts of life such as picking up the ukulele, playing football at a semi-professional level, dancing, and traveling!
 
 <!--
