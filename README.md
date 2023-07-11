@@ -5,20 +5,13 @@ I am a Data Scientist with a passion for sports analytics, and just completed Fl
 
 I'm very experienced in contexts that change quickly, maneuvering and managing teams to meet deadlines, and having multiple projects with different parameters.
 
-• Languages: Python, SQL
-
-• Predictive Modeling: Linear/Logistic Regression, Classification, Clustering, Decision Tree, Random Forest, K-Nearest Neighbors
-
-• Machine Learning: Deep Learning, Neural Networks, Image Processing, Keras, TensorFlow, Time Series
-
-• Databases: SQL, Pandas
-
-• Data Visualization: Matplotlib, Seaborn
-
-• Environments: Jupyter Notebook, Visual Studio Code, Streamlit
-
-• Data Science Methods: Cleaning, Exploration, Modeling, Visualization
-
+- Languages: Python, SQL
+- Predictive Modeling: Linear/Logistic Regression, Classification, Clustering, Decision Tree, Random Forest, K-Nearest Neighbors
+- Machine Learning: Deep Learning, Neural Networks, Image Processing, Keras, TensorFlow, Time Series
+- Databases: SQL, Pandas
+- Data Visualization: Matplotlib, Seaborn
+- Environments: Jupyter Notebook, Visual Studio Code, Streamlit
+- Data Science Methods: Cleaning, Exploration, Modeling, Visualization
 
 Before data science, I was a real estate senior analyst with a knack for being able to adapt quickly, take control of projects, and manage a diverse group of people to meet the same goals at the same time. 
 
